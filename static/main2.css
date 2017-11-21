@@ -3,28 +3,34 @@
 body {
     font-size: 100%;
 }
+
 h1 {
-  font-size: 3em; /* 48 / 16 */
+  font-size: 8em; /* 8 times normal */
 }
+
 h2 {
-  font-size: 2.25em; /* 36 / 16 */
+  font-size: 5em;
 }
+
 h3 {
-  font-size: 1.5em; /* 24 / 16 */
+  font-size: 3em;
 }
+
 h4 {
-  font-size: 1.3125em; /* 21 / 16 */
+  font-size: 2.7em;
 }
+
 h5 {
-  font-size: 1.125em; /* 18 / 16 */
+  font-size: 2.4em;
 }
+
 h6 {
-  font-size: 1em; /* 16 / 16 */
+  font-size: 2em;
 }
 
 
 p {
-  font-size: 1em; /* 16 / 16 */
+  font-size: 1.7em;
   font-family: 'Quicksand', sans-serif;
 }
 h1,h2,h3 {
